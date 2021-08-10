@@ -133,7 +133,7 @@ var config =
 	 * but use it with caution
 	 * full mesh audio strongly decrease room capacity! 
 	 */
-	autoMuteThreshold    : 4,
+	autoMuteThreshold    : 5,
 	background           : 'images/background.jpg',
 	defaultLayout        : 'democratic', // democratic, filmstrip
 	// If true, will show media control buttons in separate
